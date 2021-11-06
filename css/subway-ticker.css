@@ -1,0 +1,12 @@
+/*****************************
+ All rights reserved.
+ AllFont.net (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Subway Ticker';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Subway Ticker'), local('SubwayTicker-Regular'),
+        url(https://allfont.net/cache/fonts/subway-ticker_6a3ce8a073d9021e3c19917ae2df75e8.woff) format('woff'),
+        url(https://allfont.net/cache/fonts/subway-ticker_6a3ce8a073d9021e3c19917ae2df75e8.ttf) format('truetype');
+}
