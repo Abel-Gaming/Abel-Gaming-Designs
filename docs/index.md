@@ -7,7 +7,7 @@ Here you will be able to find all downloads for FiveM by Abel Gaming Designs. Pl
 | Script Name  | Standalone Version | ESX Version |
 | ------------- | ------------- | ------------- |
 | FireHydrant  | [Download Now](https://github.com/Abel-Gaming/FireHydrant)  | [Download Now](https://github.com/Abel-Gaming/esx_FireHydrant)  |
-| SecurityPlus  | [Download Now](https://github.com/Abel-Gaming/FireHydrant)  | [Download Now](https://github.com/Abel-Gaming/esx_SecurityPlus)  |
+| SecurityPlus  | [Download Now](https://github.com/Abel-Gaming/SecurityPlus)  | [Download Now](https://github.com/Abel-Gaming/esx_SecurityPlus)  |
 | Lottery  | Not Available  | [Download Now](https://github.com/Abel-Gaming/esx_Lottery)  |
 | Boat Anchor | [Download Now](https://github.com/Abel-Gaming/AG_BoatAnchor) | Not Available |
 | Electrician Job | [Download Now](https://github.com/Abel-Gaming/AG_ElectricianJob) | Not Available |
