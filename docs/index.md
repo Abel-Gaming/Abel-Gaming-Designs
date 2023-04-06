@@ -1,7 +1,7 @@
 ## Welcome to Abel Gaming Designs!
 Here you will be able to find all downloads for FiveM by Abel Gaming Designs. Please note that at this time, April of 2023, I am in the process of migrating all of my ESX scripts to be able to work as standalone scripts. New Github repositories will be created for these standalone versions.
 
-### STANDALONE SCRIPTS
+### ALL SCRIPTS
 <hr>
 
 | Script Name  | Standalone Version | ESX Version |
